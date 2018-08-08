@@ -7,6 +7,18 @@
     <prop type="x-WordCountFlags">DefaultFlags</prop>
   </header>
   <body>
+    <tu creationdate="20180108T130013Z" creationid="William-PC\William" changedate="20180806T150550Z" changeid="William-PC\William" lastusagedate="20180806T150550Z">
+      <prop type="x-LastUsedBy">William-PC\William</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>[I have an XLF project and one file contains segments that all start with [ and end with ] (e.g. [Enter your site key])]</seg>
+      </tuv>
+      <tuv xml:lang="zh-TW">
+        <seg>第一句</seg>
+      </tuv>
+    </tu>
     <tu creationdate="20180108T130021Z" creationid="William-PC\William" changedate="20180806T150550Z" changeid="William-PC\William" lastusagedate="20180806T150550Z">
       <prop type="x-LastUsedBy">William-PC\William</prop>
       <prop type="x-Context">-6169646623803093552, 32694028139</prop>
@@ -29,18 +41,6 @@
       </tuv>
       <tuv xml:lang="zh-TW">
         <seg>第三句</seg>
-      </tuv>
-    </tu>
-    <tu creationdate="20180108T130013Z" creationid="William-PC\William" changedate="20180807T154703Z" changeid="William-PC\William" lastusagedate="20180807T154703Z">
-      <prop type="x-LastUsedBy">William-PC\William</prop>
-      <prop type="x-Context">0, 0</prop>
-      <prop type="x-Origin">TM</prop>
-      <prop type="x-ConfirmationLevel">Translated</prop>
-      <tuv xml:lang="en-US">
-        <seg>[I have an XLF project and one file contains segments that all start with [ and end with ] (e.g. [Enter your site key])]</seg>
-      </tuv>
-      <tuv xml:lang="zh-TW">
-        <seg>第一句 (更新)</seg>
       </tuv>
     </tu>
   </body>
